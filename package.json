@@ -8,7 +8,8 @@
     "transfer": "ts-node ./transfer.ts",
     "createMint": "ts-node ./spl_init.ts",
     "mint": "ts-node ./spl_mint.ts",
-    "splTransfer": "ts-node ./spl_transfer.ts"
+    "splTransfer": "ts-node ./spl_transfer.ts",
+    "houseToken": "ts-node ./HouseTokenWithMetaplex.ts.ts"
   },
   "dependencies": {
     "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
